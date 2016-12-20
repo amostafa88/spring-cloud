@@ -1,2 +1,4 @@
 ---
-lucky-word: malekomar
+wordConfig:
+ lucky-word: malekomar
+ preamble: test
